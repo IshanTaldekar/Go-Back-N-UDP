@@ -3,7 +3,7 @@ An implementation of the Go-Back-N Automatic Repeat reQuest (ARQ) protocol. This
 uses a sliding window method for reliable and sequential delivery of data frames. The GBN is a sliding
 window protocol with a send window size of N and a receiving window size of 1.
 
-To ensure reliable transmission, the GBN client behaves as follows:
+## To ensure reliable transmission, the GBN client behaves as follows:
 
  1. Should the client have a packet to send, it first checks if the window is full. If the window is not full, the
     packet is sent and the appropriate variables are updated.
@@ -23,7 +23,7 @@ To ensure reliable transmission, the GBN client behaves as follows:
     for an acknowledgement again, and so on. This ensures that the client's window always keeps full. (This is an
     assignment requirement)
    
-To ensure reliable transmission, the GBN server behaves as follows:
+## To ensure reliable transmission, the GBN server behaves as follows:
 
   1. The server should verify that the packet received is in order by checking its sequence number.
 
