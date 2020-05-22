@@ -36,3 +36,5 @@ window protocol with a send window size of N and a receiving window size of 1.
   4. After the server has received all data packets and an End-Of-Transmission (EOT) packet from the client, it
   should send an EOT packet with the type field set to 2, and then exit.
   
+Please refer to the assignment pdf for more information. 
+
