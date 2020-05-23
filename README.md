@@ -2,11 +2,9 @@
 
 An implementation of the Go-Back-N Automatic Repeat reQuest (ARQ) protocol. This data link layer protocol
 uses a sliding window method for reliable and sequential delivery of data frames. The GBN is a sliding
-window protocol with a send window size of N and a receiving window size of 1.
+window protocol with a send window size of N and a receiving window size of 1. Please refer to the assignment pdf for more information.
 
-The packet.cpp, packet.h, and emulator files do not belong to me. Please do not replicate. 
-
-Refer to the assignment pdf for more information. 
+The packet.cpp, packet.h, and emulator files do not belong to me. Do not replicate.  
 
 ## To ensure reliable transmission, the GBN client behaves as follows:
 
