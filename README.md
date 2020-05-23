@@ -38,4 +38,6 @@ The packet.cpp, packet.h, and emulator files do not belong to me. Please refer t
   4. After the server has received all data packets and an End-Of-Transmission (EOT) packet from the client, it
   should send an EOT packet with the type field set to 2, and then exit.
   
-## Test
+## Execution and Testing
+
+### 50% of packets lost
