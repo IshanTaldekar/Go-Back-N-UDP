@@ -42,4 +42,4 @@ The packet.cpp, packet.h, and emulator files do not belong to me. Please refer t
 
 ### 50% of packets lost
 
-https://www.youtube.com/watch?v=Bv0qf6y3QCA&feature=youtu.be
+[![Demo](https://img.youtube.com/vi/Bv0qf6y3QCA/0.jpg)](https://www.youtube.com/watch?v=Bv0qf6y3QCA)
