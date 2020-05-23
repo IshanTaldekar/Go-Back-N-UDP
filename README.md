@@ -42,6 +42,4 @@ The packet.cpp, packet.h, and emulator files do not belong to me. Please refer t
 
 ### Video Demo: 50% of packets lost
 
-[![Demo Video 50% Drop Rate](https://img.youtube.com/vi/lHbZSz0J5fo/0.jpg)](https://www.youtube.com/watch?v=lHbZSz0J5fo)
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo Video 50% Drop Rate](Drop-Rate-50-Demo.gif)](https://www.youtube.com/watch?v=lHbZSz0J5fo)
