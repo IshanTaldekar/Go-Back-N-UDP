@@ -1,4 +1,4 @@
-# Go-Back-N-UDP
+# Go-Back-N-using-UDP
 
 An implementation of the Go-Back-N Automatic Repeat reQuest (ARQ) protocol. This data link layer protocol
 uses a sliding window method for reliable and sequential delivery of data frames. The GBN is a sliding
