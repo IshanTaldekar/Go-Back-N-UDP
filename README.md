@@ -41,7 +41,7 @@ The packet.cpp, packet.h, and emulator files do not belong to me. Do not replica
   
 ## Execution, Testing, and Results
 
-The program has been thoroughly tested and performes to the specifications. It is able to handle upto 90% (the maximum drop rate) of the packets being lost in transit.
+The program has been thoroughly tested and performs to the specifications. It is able to handle upto 90% (the maximum drop rate) of the packets being lost in transit.
 
 ### 50% packet loss
 
